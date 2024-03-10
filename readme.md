@@ -1,13 +1,14 @@
+
 # Traffic Accident Data Analysis
 
 ## Overview
 
-This repository contains synthetic data generated to simulate traffic accidents. The dataset includes information such as the date, timing, state, weather conditions, road conditions, number of deaths, and reasons for each accident.
+This repository contains a dataset simulating real-world traffic accidents. The dataset includes information such as the date, timing, state, weather conditions, road conditions, number of deaths, and reasons for each accident.
 
 ## Contents
 
-* `road_accident.csv`: The CSV file containing the synthetic traffic accident data.
-* `traffic_accident_analysis.py`: The Python script used to generate the synthetic data and perform basic data analysis.
+* `road_accident.csv`: The CSV file containing traffic accident data.
+* `traffic_accident_analysis.py`: The Python script used to perform basic data analysis and generate visualizations.
 
 ## Data Analysis
 
